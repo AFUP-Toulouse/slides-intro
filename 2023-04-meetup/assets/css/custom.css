@@ -24,3 +24,9 @@
 .reveal h6 {
     font-family: 'Belgrano', sans-serif !important;
 }
+
+.flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
