@@ -30,3 +30,17 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.reveal p, .reveal li, .reveal table {
+    font-size:0.7em;
+}
+
+.reveal .bureau img {
+    width: 80px; height: 80px;
+    margin: 0 15px;
+    vertical-align: middle;
+}
+.reveal table td, .reveal table th {
+    border: 0 none;
+    vertical-align: middle;
+}
